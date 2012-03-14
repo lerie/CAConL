@@ -1,0 +1,9 @@
+C:\Users\cs\documents\visual studio 2010\Projects\CAConL\CAConL\bin\Debug\CAConL.exe
+C:\Users\cs\documents\visual studio 2010\Projects\CAConL\CAConL\bin\Debug\CAConL.pdb
+C:\Users\cs\documents\visual studio 2010\Projects\CAConL\CAConL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cs\documents\visual studio 2010\Projects\CAConL\CAConL\obj\x86\Debug\CAConL.frmMain.resources
+C:\Users\cs\documents\visual studio 2010\Projects\CAConL\CAConL\obj\x86\Debug\CAConL.Properties.Resources.resources
+C:\Users\cs\documents\visual studio 2010\Projects\CAConL\CAConL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cs\documents\visual studio 2010\Projects\CAConL\CAConL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cs\documents\visual studio 2010\Projects\CAConL\CAConL\obj\x86\Debug\CAConL.exe
+C:\Users\cs\documents\visual studio 2010\Projects\CAConL\CAConL\obj\x86\Debug\CAConL.pdb
